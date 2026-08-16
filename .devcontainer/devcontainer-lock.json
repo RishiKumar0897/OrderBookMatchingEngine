@@ -1,0 +1,49 @@
+{
+  "features": {
+    "ghcr.io/devcontainer-community/devcontainer-features/apt-build-essential:1": {
+      "version": "1.0.2",
+      "resolved": "ghcr.io/devcontainer-community/devcontainer-features/apt-build-essential@sha256:e396b09fdd04aef5ca8d35b9957547142761575575513d12fd8dc3c98c1728f8",
+      "integrity": "sha256:e396b09fdd04aef5ca8d35b9957547142761575575513d12fd8dc3c98c1728f8"
+    },
+    "ghcr.io/devcontainer-community/devcontainer-features/clang-format:1": {
+      "version": "1.0.2",
+      "resolved": "ghcr.io/devcontainer-community/devcontainer-features/clang-format@sha256:fd4a701f3d067e74caa5e8e229eaf13e45e85385dcac5ad81401c4e7678b735e",
+      "integrity": "sha256:fd4a701f3d067e74caa5e8e229eaf13e45e85385dcac5ad81401c4e7678b735e"
+    },
+    "ghcr.io/devcontainer-config/features/dot-config:4": {
+      "version": "4.0.0",
+      "resolved": "ghcr.io/devcontainer-config/features/dot-config@sha256:d9ca770ccb218e619d5725fd50f00dfacdf582d92a8c3901f11b53b1caddd878",
+      "integrity": "sha256:d9ca770ccb218e619d5725fd50f00dfacdf582d92a8c3901f11b53b1caddd878"
+    },
+    "ghcr.io/devcontainers-extra/features/cmake:1": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/devcontainers-extra/features/cmake@sha256:86e25502f6b1213a68d88e4e55c969eba0b5016b9666d216ab65f5047808bc90",
+      "integrity": "sha256:86e25502f6b1213a68d88e4e55c969eba0b5016b9666d216ab65f5047808bc90"
+    },
+    "ghcr.io/devcontainers-extra/features/curl-apt-get:1": {
+      "version": "1.0.18",
+      "resolved": "ghcr.io/devcontainers-extra/features/curl-apt-get@sha256:7fb32e4ebdd440369a598e7a27b1ed56c9e73eb6b4f595d30969862d2fc68e40",
+      "integrity": "sha256:7fb32e4ebdd440369a598e7a27b1ed56c9e73eb6b4f595d30969862d2fc68e40"
+    },
+    "ghcr.io/devcontainers-extra/features/wget-apt-get:1": {
+      "version": "1.0.17",
+      "resolved": "ghcr.io/devcontainers-extra/features/wget-apt-get@sha256:35dbf105e38d7772cfe363b2fc4aedb3348f274822bc6fbf9c18be6d6b0ea471",
+      "integrity": "sha256:35dbf105e38d7772cfe363b2fc4aedb3348f274822bc6fbf9c18be6d6b0ea471"
+    },
+    "ghcr.io/devcontainers/features/github-cli:1": {
+      "version": "1.1.0",
+      "resolved": "ghcr.io/devcontainers/features/github-cli@sha256:d22f50b70ed75339b4eed1ba9ecde3a1791f90e88d37936517e3bace0bbad671",
+      "integrity": "sha256:d22f50b70ed75339b4eed1ba9ecde3a1791f90e88d37936517e3bace0bbad671"
+    },
+    "ghcr.io/devcontainers/features/node:1": {
+      "version": "1.7.1",
+      "resolved": "ghcr.io/devcontainers/features/node@sha256:8c0de46939b61958041700ee89e3493f3b2e4131a06dc46b4d9423427d06e5f6",
+      "integrity": "sha256:8c0de46939b61958041700ee89e3493f3b2e4131a06dc46b4d9423427d06e5f6"
+    },
+    "ghcr.io/jajera/features/zip:1": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/jajera/features/zip@sha256:6fff9b5951f40762d778abbb9c7098e17a4e1d9bfb15e424d9f95b1f9b70f442",
+      "integrity": "sha256:6fff9b5951f40762d778abbb9c7098e17a4e1d9bfb15e424d9f95b1f9b70f442"
+    }
+  }
+}
