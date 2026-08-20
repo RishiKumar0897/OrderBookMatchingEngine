@@ -53,7 +53,7 @@ NUM_CORES=$(nproc 2>/dev/null || sysctl -n hw.ncpu 2>/dev/null || echo 2)
 #configure the project
 echo "--> Configuring prroject in: $BUILD_DIR"
 echo "--> Build Mode: $CONFIG"
-cmake -S "$PROJECT_ROOT" -B "$BUILD_DIR" -DCMAKE_BUILD_TYPE="$CONFIG"
+cmake -S "$PROJECT_ROOT/matching-engine" -B "$BUILD_DIR" -DCMAKE_BUILD_TYPE="$CONFIG"
 
 #build the project
 if [ -n "$TARGET" ]; then
