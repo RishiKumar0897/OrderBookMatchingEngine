@@ -21,7 +21,7 @@ target_include_directories(matching_engine PRIVATE include)
 
 #separate test executable, compile into an executable named engine_tests
 enable_testing()
-add_executable(engine_tests ../tests/smoke_test.cpp)
+add_executable(engine_tests ../tests/smoke_test.cpp ../tests/order_pool_test.cpp ../tests/price_level_tests.cpp)
 target_include_directories(engine_tests PRIVATE include)
 target_link_libraries(engine_tests PRIVATE gtest_main)
 

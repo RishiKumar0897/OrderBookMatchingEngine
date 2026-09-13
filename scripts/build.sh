@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#command to run
+#example usage: ./scripts/build.sh -t all -c Release
 #exit immediately if a command exits with a non-zero status
 set -e
 
